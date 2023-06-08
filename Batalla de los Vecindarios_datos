@@ -1,0 +1,18 @@
+Batalla de los Vecindarios
+semana 1
+
+Definición del Problema Comercial
+Un grupo de inversionistas multipaises quieren hacer un estudio en la  comunidad  de Madrid para determinar la localidad con mayor potencial para desarrollar  un proyecto de restauracion multicultural y internacional / abrir un grand restaurante donde se puede encontrar al menos 5 comidas de al menos un pais de al menos 3 continentes del mundo. 
+Nuestro trabajo es de recommendar a los inversionistas la localidad adecuada en Madrid para invertir
+
+Datos
+Los datos necesarios para este analisis son:
+
+Localidades  de la comunidad de Madrid: Las municipios   mas importantes de la ciudad de Madrid  y una lista del top 10  , 
+ya que son las localidades con mas poblacion tanto de espanoles como de otras nacionalidades
+y mas infraestructuras son pertinamente la mejor opcion para tener en cuenta en el lugar deseado para invertir, 
+datos obtenidos de Wikipedia: https://es.wikipedia.org/wiki/Anexo:Municipios_de_la_Comunidad_de_Madrid
+
+Coordenadas geograficas de la Communidad de Madrid: Datos geográficos  y de los lugares mas populares /mas representativas 
+poblacionalmente  para tener una mayor idea en que ciudades conviene desarrollar el proyecto, 
+datos a obtenir de la pagina Foursquare. https://es.foursquare.com/developers/projects
